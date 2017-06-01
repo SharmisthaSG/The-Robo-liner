@@ -1,2 +1,2 @@
 # The-Robo-liner
-A self-tracking method to help me pursue programming and robotics 
+A self-tracking method to help me pursue my interests in programming and robotics 
